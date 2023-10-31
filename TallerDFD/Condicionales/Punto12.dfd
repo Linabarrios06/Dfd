@@ -1,0 +1,110 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+8
+MarcaLBH
+2
+''
+9
+PrecioLBH
+1
+0
+4
+1
+41
+'Digite el precio de la moto que deseas '
+5
+1
+9
+PrecioLBH
+4
+1
+40
+'Digite la marca de la moto que deseas '
+5
+1
+8
+MarcaLBH
+7
+0
+1
+18
+MarcaLBH = 'honda'
+7
+0
+1
+19
+MarcaLBH = 'yamaha'
+7
+0
+1
+19
+MarcaLBH = 'suzuki'
+6
+2
+12
+DescuentoLBH
+15
+PrecioLBH*3/100
+11
+PrecioTotal
+22
+PrecioLBH-DescuentoLBH
+4
+1
+93
+'Felicidades tienes un descuento de 3% ya no vas a pagar ' ,PrecioLBH, ' Sí no ' ,PrecioTotal
+13
+6
+2
+12
+DescuentoLBH
+15
+PrecioLBH*9/100
+11
+PrecioTotal
+22
+PrecioLBH-DescuentoLBH
+4
+1
+111
+'Gracias por elegir está marca tienes un descuento de 9% ya no vas a pagar ' ,PrecioLBH, ' Sí no ' ,PrecioTotal
+13
+13
+6
+2
+12
+DescuentoLBH
+15
+PrecioLBH*7/100
+11
+PrecioTotal
+22
+PrecioLBH-DescuentoLBH
+4
+1
+111
+'Gracias por elegir está marca tienes un descuento de 7% ya no vas a pagar ' ,PrecioLBH, ' Sí no ' ,PrecioTotal
+13
+13
+6
+2
+12
+DescuentoLBH
+15
+PrecioLBH*4/100
+11
+PrecioTotal
+22
+PrecioLBH-DescuentoLBH
+4
+1
+111
+'Gracias por elegir está marca tienes un descuento de 4% ya no vas a pagar ' ,PrecioLBH, ' Sí no ' ,PrecioTotal
+13
+1

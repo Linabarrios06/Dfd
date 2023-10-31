@@ -1,0 +1,75 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+DiaLBH
+2
+''
+4
+1
+30
+'Digite el total de su compra'
+5
+1
+9
+CompraLBH
+4
+1
+22
+'Digite el dia de hoy'
+5
+1
+6
+DiaLBH
+7
+0
+1
+14
+DiaLBH='lunes'
+7
+0
+1
+15
+DiaLBH='sabado'
+4
+1
+37
+'Su total a pagar es de: ' ,CompraLBH
+13
+6
+2
+12
+DescuentoLBH
+15
+CompraLBH*8/100
+5
+Total
+22
+CompraLBH-DescuentoLBH
+4
+1
+111
+'Felicidades por el día de hoy SABADO tienes un descuento del 18% en tu compra su total a pagar es de: ' ,Total
+13
+13
+6
+2
+12
+DescuentoLBH
+16
+CompraLBH*15/100
+5
+Total
+22
+CompraLBH-DescuentoLBH
+4
+1
+110
+'Felicidades por el día de hoy LUNES tienes un descuento del 15% en tu compra su total a pagar es de: ' ,Total
+13
+1

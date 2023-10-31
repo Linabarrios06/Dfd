@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+N1LBH
+1
+0
+5
+N2LBH
+1
+0
+5
+N3LBH
+1
+0
+4
+1
+22
+'Digite tres números '
+5
+1
+17
+N1LBH,N2LBH,N3LBH
+7
+0
+1
+17
+N1LBH+N2LBH=N3LBH
+4
+1
+76
+'El número ' ,N3LBH, ' no es la sumas del los números ' ,N1LBH, ' y ' ,N2LBH
+13
+4
+1
+76
+'El número ' ,N3LBH, ' sí es la sumas del los números ' ,N1LBH, ' y ' ,N2LBH
+13
+1

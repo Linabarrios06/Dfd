@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+N1LBH
+1
+0
+5
+N2LBH
+1
+0
+5
+N3LBH
+1
+0
+4
+1
+30
+'Por favor digite sus 3 notas'
+5
+1
+19
+N1LBH, N2LBH, N3LBH
+6
+1
+8
+promedio
+21
+(N1LBH+N2LBH+N3LBH)/3
+7
+0
+1
+15
+promedio >= 5.0
+4
+1
+35
+'Lo sentimos usted no aprobo :´(  '
+13
+4
+1
+34
+'Felicidades usted a aprobado :) '
+13
+1

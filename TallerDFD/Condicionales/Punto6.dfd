@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+11
+TotalUsbLBH
+1
+0
+9
+PrecioUsb
+1
+0
+4
+1
+33
+'Digite cuantas USB va a comprar'
+5
+1
+11
+TotalUsbLBH
+4
+1
+31
+'Digite el precio de la compra'
+5
+1
+12
+PrecioUsbLBH
+7
+1
+1
+14
+TotalUsbLBH<=4
+6
+3
+15
+PrecioCompraLBH
+24
+TotalUsbLBH*PrecioUsbLBH
+12
+DescuentoLBH
+20
+PrecioCompraLBH*0.10
+8
+TotalLBH
+30
+PrecioCompraLBH - DescuentoLBH
+4
+1
+73
+'Su precio total con el 10% de descuento por su compra es de: ' ,TotalLBH
+13
+6
+3
+15
+PrecioCompraLBH
+24
+TotalUsbLBH*PrecioUsbLBH
+12
+DescuentoLBH
+20
+PrecioCompraLBH*0.15
+8
+TotalLBH
+30
+PrecioCompraLBH - DescuentoLBH
+4
+1
+73
+'Su precio total con el 15% de descuento por su compra es de: ' ,TotalLBH
+13
+1

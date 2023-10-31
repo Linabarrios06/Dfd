@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+N1LBH
+1
+0
+6
+SumLBH
+1
+0
+9
+ConteoLBH
+1
+0
+4
+1
+32
+'Digite un número por favor :) '
+5
+1
+5
+N1LBH
+8
+1
+3
+LBH
+1
+1
+0
+1
+5
+N1LBH
+1
+1
+1
+7
+0
+1
+13
+LBH mod 2 = 0
+13
+6
+2
+6
+SumLBH
+12
+SumLBH + LBH
+9
+ConteoLBH
+15
+ConteoLBH + LBH
+13
+10
+4
+1
+61
+'La suma es: ',SumLBH,'; y hay: ',ConteoLBH,'  numeros pares'
+1

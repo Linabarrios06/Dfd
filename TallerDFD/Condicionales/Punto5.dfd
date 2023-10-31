@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+Horas
+1
+0
+4
+1
+39
+'Digite sus horas trabajadas por favor'
+5
+1
+8
+HorasLBH
+7
+0
+1
+16
+HorasLBH<=20.000
+6
+3
+13
+HorasExtraLBH
+12
+Horas+35.000
+7
+HoraLBH
+24
+HorasLBH - HorasExtraLBH
+10
+SalarioLBH
+41
+(HoraLBH*30.000) + (HorasExtraLBH*35.000)
+13
+6
+1
+10
+SalarioLBH
+15
+HorasLBH*30.000
+13
+4
+1
+39
+'Su salario es de: ' ,SalarioLBH,'.000'
+1

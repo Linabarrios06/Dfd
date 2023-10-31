@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+'Digite la base del triangulo por favor'
+5
+1
+7
+BaseLBH
+4
+1
+42
+'Digite la altura del triangulo por favor'
+5
+1
+9
+AlturaLBH
+6
+1
+7
+AreaLBH
+21
+(BaseLBH*AlturaLBH)/2
+4
+1
+39
+'El area de su triangulo es: ' ,AreaLBH
+1

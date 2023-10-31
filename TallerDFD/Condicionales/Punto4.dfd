@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Digite sus nùmeros por favor'
+5
+1
+5
+N1LBH
+4
+1
+20
+'Digite otro número'
+5
+1
+5
+N2LBH
+7
+0
+1
+11
+N1LBH>N2LBH
+4
+1
+55
+'El número mayor es: ' ,N2LBH, ' y el menor es ' ,N1LBH
+13
+4
+1
+55
+'El número mayor es: ' ,N1LBH, ' y el menor es ' ,N2LBH
+13
+1
